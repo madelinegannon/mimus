@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+# the robot and environment USD are NVIDIA's assets: fetched by tools/fetch_assets.py, never committed
+usd/
+# site configuration and anything saved from the panel
+config/app.json
+config/app.local.json
+config/behavior_presets.json
+config/*_20*.json
+safety.yaml
+data/
+.thumbs/

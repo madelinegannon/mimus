@@ -1,0 +1,15 @@
+{
+  "mount_z": 0.0,
+  "base_xy": [0.0, 0.0],
+  "base_yaw_deg": 0.0,
+  "home_q_rad": [0.0, 1.012291, -0.785398, 0.0, -0.226893, 0.0],
+  "sleep_q_rad": [0.0, 1.012291, -0.785398, 0.0, -1.797689, 0.0],
+  "unwind_rate_rad_s": 0.8,
+  "unwind_min_s": 0.5,
+  "startup_rate_rad_s": 0.3,
+  "speed_scale": 0.2,
+  "speed_slew_per_s": 0.33,
+  "anchor_z_m": 1.1,
+  "reach_max_m": 0.85,
+  "tracker_params": {}
+}

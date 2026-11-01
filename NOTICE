@@ -1,0 +1,23 @@
+Mimus
+Copyright 2024-2026 ATONATON, LLC
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The names Mimus and ATONATON are trademarks of ATONATON, LLC and are not
+licensed. Nothing in this work grants a right to use them beyond the
+reasonable and customary attribution of the origin of the work; TRADEMARKS.md
+is the policy.
+
+Third-party material and derivations:
+
+- rmpflow/lula_uf850.urdf is a mesh-free kinematic description of the UFACTORY
+  xArm 850 assembled from UFACTORY's xarm_ros2 package (BSD-3-Clause,
+  Copyright (c) UFACTORY). UFACTORY and xArm are trademarks of their owner;
+  this project is not affiliated with or endorsed by UFACTORY.
+- rmpflow/uf850_robot_description.yaml and rmpflow/uf850_rmpflow_config.yaml
+  are modelled on the robot descriptors and RMPflow configurations that ship
+  with NVIDIA Isaac Sim's motion-generation extension, retargeted and retuned
+  for the xArm 850. NVIDIA, Isaac Sim and Omniverse are trademarks of NVIDIA
+  Corporation. The robot and environment USD assets this app loads are
+  NVIDIA's, are fetched by tools/fetch_assets.py under NVIDIA's own terms,
+  and are not part of this work.

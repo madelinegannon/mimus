@@ -1,0 +1,10 @@
+{
+    "end_effector_frame_name": "link6",
+    "maximum_substep_size": 0.00334,
+    "ignore_robot_state_updates": true,
+    "relative_asset_paths": {
+        "robot_description_path": "uf850_robot_description.yaml",
+        "urdf_path": "lula_uf850.urdf",
+        "rmpflow_config_path": "uf850_rmpflow_config.yaml"
+    }
+}
